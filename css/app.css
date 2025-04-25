@@ -1,0 +1,17 @@
+.portfolio-item {
+  cursor: pointer;
+  margin-bottom: 1.8rem;
+}
+
+.modal-dialog {
+  max-width: 80%;
+}
+
+#searchInput {
+  margin-bottom: 1.5rem;
+}
+
+.filter-btn {
+  margin-right: 1rem;
+  margin-bottom: 1.5rem;
+}
